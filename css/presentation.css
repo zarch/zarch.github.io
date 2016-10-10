@@ -1,0 +1,56 @@
+.emot {
+  font-size: 400px;
+}
+
+.emotxs {
+  font-size: 200px;
+}
+
+
+.toc {
+    padding: 1em 3% 1.7em;
+    margin: 2.5em auto 1.5em;
+    opacity: 0.7;
+}
+
+.h_red {
+color: #ff2c2d
+}
+
+.h_blue {
+color: #1b91ff
+}
+
+.h_green {
+color: #17ff2e;
+}
+
+.copyleft {
+  display: inline-block;
+  transform: rotate(180deg);
+}
+
+#malfunctions {
+  left:-8.33%;
+  text-align: left;
+  float: left;
+  width:50%;
+  z-index:-10;
+}
+
+#companies {
+  left:31.25%;
+  top: 75px;
+  float: right;
+  text-align: right;
+  z-index:-10;
+  width:50%;
+}
+
+
+.imgx {
+    margin: 0px 0px;
+    background: rgba(255, 255, 255, 0.);
+    border: 0px solid #fff;
+    box-shadow: 0 0 0px rgba(0, 0, 0, 0.);
+}
